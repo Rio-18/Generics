@@ -21,7 +21,7 @@ namespace Generics
                 Console.WriteLine(element);
             }
         }
-        {
+        
 
     }
 }

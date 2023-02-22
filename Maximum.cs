@@ -26,6 +26,9 @@ namespace Generics
             if (secondvalue.CompareTo(firstvalue) > 0 && secondvalue.CompareTo(thirdvalue) > 0 ||
                 secondvalue.CompareTo(firstvalue) >= 0 && thirdvalue.CompareTo(thirdvalue) > 0 ||
                 secondvalue.CompareTo(firstvalue) > 0 && secondvalue.CompareTo(thirdvalue) >= 0)
+            {
+                return thirdvalue;
+            }
 
 
         }

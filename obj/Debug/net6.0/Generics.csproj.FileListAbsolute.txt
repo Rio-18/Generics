@@ -1,0 +1,5 @@
+C:\Users\admin\source\repos\Generics\Generics\obj\Debug\net6.0\Generics.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Generics\Generics\obj\Debug\net6.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Generics\Generics\obj\Debug\net6.0\Generics.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Generics\Generics\obj\Debug\net6.0\Generics.AssemblyInfo.cs
+C:\Users\admin\source\repos\Generics\Generics\obj\Debug\net6.0\Generics.csproj.CoreCompileInputs.cache
